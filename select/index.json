@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "lien",
+  "base_artist": "菅原圭",
+  "createdAt": "2025-12-16T15:55:04.177066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lien On Your Dreams",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/01_Lien_On_Your_Dreams_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Liên Khúc: Buổi Sáng Ở CIAO Cafe & Espresso - Live Version",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": true,
+      "path": "select/02_Liên_Khúc__Buổi_Sáng_Ở_CIAO_Cafe_&_Espresso_-_Live_Version_Hà_Anh_Tuấn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Liên Khúc: Chỉ Còn Những Mùa Nhớ & Nuối Tiếc - Live Version",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": false,
+      "path": "select/03_Liên_Khúc__Chỉ_Còn_Những_Mùa_Nhớ_&_Nuối_Tiếc_-_Live_Version_Hà_Anh_Tuấn.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Liên Khúc: Chỉ Còn (Nuối Tiếc) Những Mùa Nhớ",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": false,
+      "path": "select/04_Liên_Khúc__Chỉ_Còn_(Nuối_Tiếc)_Những_Mùa_Nhớ_Hà_Anh_Tuấn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Liên Khúc: Tuyết Rơi Mùa Hè & Chân Tình - Live Version",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": true,
+      "path": "select/05_Liên_Khúc__Tuyết_Rơi_Mùa_Hè_&_Chân_Tình_-_Live_Version_Hà_Anh_Tuấn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Liên Khúc: Tự Khúc Mùa Đông & Tiếng Gió Xôn Xao - Live Version",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": false,
+      "path": "select/06_Liên_Khúc__Tự_Khúc_Mùa_Đông_&_Tiếng_Gió_Xôn_Xao_-_Live_Version_Hà_Anh_Tuấn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Liên Khúc: Tự Khúc Mùa Đông & Tiếng Gió Xôn Xao",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": false,
+      "path": "select/07_Liên_Khúc__Tự_Khúc_Mùa_Đông_&_Tiếng_Gió_Xôn_Xao_Hà_Anh_Tuấn.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tante Lien",
+      "artist": "De Jeugd van Tegenwoordig",
+      "has_synced": false,
+      "path": "select/08_Tante_Lien_De_Jeugd_van_Tegenwoordig.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tante Lien",
+      "artist": "Jeugd van Tegenwoordig, De",
+      "has_synced": true,
+      "path": "select/09_Tante_Lien_Jeugd_van_Tegenwoordig,_De.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Le lien",
+      "artist": "Unswabbed",
+      "has_synced": false,
+      "path": "select/10_Le_lien_Unswabbed.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tante Lien",
+      "artist": "De Jeugd Van Tegenwoordig",
+      "has_synced": true,
+      "path": "select/11_Tante_Lien_De_Jeugd_Van_Tegenwoordig.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tante Lien",
+      "artist": "De Jeugd Van Tegenwoordig",
+      "has_synced": false,
+      "path": "select/12_Tante_Lien_De_Jeugd_Van_Tegenwoordig.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Le Lien",
+      "artist": "Grégory Lemarchal",
+      "has_synced": true,
+      "path": "select/13_Le_Lien_Grégory_Lemarchal.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tình đêm liên hoan",
+      "artist": "Thanh Lan",
+      "has_synced": false,
+      "path": "select/14_Tình_đêm_liên_hoan_Thanh_Lan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lien",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_lien_菅原_圭.txt"
+    }
+  ]
+}
